@@ -164,3 +164,5 @@ python/data/crime_24.csv
 python/data/expenditures_data.csv
 python/data/lou_shape.csv
 python/data/salary.csv
+
+.DS_Store
